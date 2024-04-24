@@ -55,3 +55,13 @@ Worst Salesperson by Average Profit– Amber Anderson
 ![image](https://github.com/olaseindesam/Car-Sales-Data-analysis-Using-Excel-VLOOKUP-Pivot-table-and-Graph-/assets/53903205/b82f6fe2-ee50-4aa5-9b29-9cd2394d15d4)
 
 ![image](https://github.com/olaseindesam/Car-Sales-Data-analysis-Using-Excel-VLOOKUP-Pivot-table-and-Graph-/assets/53903205/592610c7-9982-4331-af2d-27f5e1094162)
+
+# Conclusion
+
+The comprehensive analysis of the car dealership's sales data spanning several years has provided invaluable insights into the dynamics of the business operations. By meticulously examining the salesperson's performance, customer preferences, and the characteristics of sold vehicles, I have gained a deeper insight into the market and identified areas for growth.
+Through this analysis, I have discerned trends in customer behavior, identified top-performing salespersons, and recognized the most sought-after car models within our inventory.
+
+## THANK YOU FOR TAKING TIME TO GO THROUGH MY ANALYSIS
+
+## You can use the link below to view my other pages
+[LinkedIn Page](https://www.linkedin.com/in/samuelolaseinde/)
